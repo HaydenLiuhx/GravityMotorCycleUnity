@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D869ADBB-D9A3-A75B-3A24-8B34753CDC36}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/motorControl.cs" Line="13" Column="53" />
+      <File FileName="Assets/CameraFollow.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GravityMotorCycleUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CameraFollow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="597b7be7-97c8-4a1f-8280-e0247f1dd81e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

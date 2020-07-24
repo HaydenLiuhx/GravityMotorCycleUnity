@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MotorCycle.unity
+  isLoaded: 1
+  isActive: 1
